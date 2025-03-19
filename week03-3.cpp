@@ -8,5 +8,5 @@ int main()
     printf("\n");
     for(int i=1; i<=5; i++) {
         printf("%d", i);
-    }
+    } 
 }
